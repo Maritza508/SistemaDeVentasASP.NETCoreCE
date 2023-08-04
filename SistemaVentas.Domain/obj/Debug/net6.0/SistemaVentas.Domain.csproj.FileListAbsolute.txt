@@ -1,0 +1,12 @@
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Domain\bin\Debug\net6.0\SistemaVentas.Domain.deps.json
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Domain\bin\Debug\net6.0\SistemaVentas.Domain.dll
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Domain\bin\Debug\net6.0\SistemaVentas.Domain.pdb
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Domain\obj\Debug\net6.0\SistemaVentas.Domain.csproj.AssemblyReference.cache
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Domain\obj\Debug\net6.0\SistemaVentas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Domain\obj\Debug\net6.0\SistemaVentas.Domain.AssemblyInfoInputs.cache
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Domain\obj\Debug\net6.0\SistemaVentas.Domain.AssemblyInfo.cs
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Domain\obj\Debug\net6.0\SistemaVentas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Domain\obj\Debug\net6.0\SistemaVentas.Domain.dll
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Domain\obj\Debug\net6.0\refint\SistemaVentas.Domain.dll
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Domain\obj\Debug\net6.0\SistemaVentas.Domain.pdb
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Domain\obj\Debug\net6.0\ref\SistemaVentas.Domain.dll

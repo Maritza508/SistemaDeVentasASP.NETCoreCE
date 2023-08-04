@@ -1,0 +1,17 @@
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Persistence\bin\Debug\net6.0\SistemaVentas.Persistence.deps.json
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Persistence\bin\Debug\net6.0\SistemaVentas.Persistence.runtimeconfig.json
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Persistence\bin\Debug\net6.0\SistemaVentas.Persistence.dll
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Persistence\bin\Debug\net6.0\SistemaVentas.Persistence.pdb
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Persistence\bin\Debug\net6.0\SistemaVentas.Domain.dll
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Persistence\bin\Debug\net6.0\SistemaVentas.Domain.pdb
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Persistence\obj\Debug\net6.0\SistemaVentas.Persistence.csproj.AssemblyReference.cache
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Persistence\obj\Debug\net6.0\SistemaVentas.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Persistence\obj\Debug\net6.0\SistemaVentas.Persistence.AssemblyInfoInputs.cache
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Persistence\obj\Debug\net6.0\SistemaVentas.Persistence.AssemblyInfo.cs
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Persistence\obj\Debug\net6.0\SistemaVentas.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Persistence\obj\Debug\net6.0\SistemaVentas.Persistence.csproj.CopyComplete
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Persistence\obj\Debug\net6.0\SistemaVentas.Persistence.dll
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Persistence\obj\Debug\net6.0\refint\SistemaVentas.Persistence.dll
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Persistence\obj\Debug\net6.0\SistemaVentas.Persistence.pdb
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Persistence\obj\Debug\net6.0\SistemaVentas.Persistence.genruntimeconfig.cache
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.Persistence\obj\Debug\net6.0\ref\SistemaVentas.Persistence.dll

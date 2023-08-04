@@ -1,0 +1,12 @@
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.IOC.deps.json
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.IOC.dll
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.IOC.pdb
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.csproj.AssemblyReference.cache
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.AssemblyInfoInputs.cache
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.AssemblyInfo.cs
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.csproj.CoreCompileInputs.cache
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.dll
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\refint\SistemaVentas.IOC.dll
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.pdb
+C:\Users\marit\Escritorio\SistemaDeVentasMVC\SolutionSistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\ref\SistemaVentas.IOC.dll

@@ -1,0 +1,292 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.WebApplication\\SistemaVentas.WebApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Domain\\SistemaVentas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Domain\\SistemaVentas.Domain.csproj",
+        "projectName": "SistemaVentas.Domain",
+        "projectPath": "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Domain\\SistemaVentas.Domain.csproj",
+        "packagesPath": "C:\\Users\\marit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Persistence\\SistemaVentas.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Persistence\\SistemaVentas.Persistence.csproj",
+        "projectName": "SistemaVentas.Persistence",
+        "projectPath": "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Persistence\\SistemaVentas.Persistence.csproj",
+        "packagesPath": "C:\\Users\\marit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Domain\\SistemaVentas.Domain.csproj": {
+                "projectPath": "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Domain\\SistemaVentas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Services\\SistemaVentas.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Services\\SistemaVentas.Services.csproj",
+        "projectName": "SistemaVentas.Services",
+        "projectPath": "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Services\\SistemaVentas.Services.csproj",
+        "packagesPath": "C:\\Users\\marit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Domain\\SistemaVentas.Domain.csproj": {
+                "projectPath": "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Domain\\SistemaVentas.Domain.csproj"
+              },
+              "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Persistence\\SistemaVentas.Persistence.csproj": {
+                "projectPath": "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Persistence\\SistemaVentas.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.WebApplication\\SistemaVentas.WebApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.WebApplication\\SistemaVentas.WebApplication.csproj",
+        "projectName": "SistemaVentas.WebApplication",
+        "projectPath": "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.WebApplication\\SistemaVentas.WebApplication.csproj",
+        "packagesPath": "C:\\Users\\marit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.WebApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Domain\\SistemaVentas.Domain.csproj": {
+                "projectPath": "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Domain\\SistemaVentas.Domain.csproj"
+              },
+              "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Persistence\\SistemaVentas.Persistence.csproj": {
+                "projectPath": "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Persistence\\SistemaVentas.Persistence.csproj"
+              },
+              "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Services\\SistemaVentas.Services.csproj": {
+                "projectPath": "C:\\Users\\marit\\Escritorio\\SistemaDeVentasMVC\\SolutionSistemaVentas\\SistemaVentas.Services\\SistemaVentas.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
